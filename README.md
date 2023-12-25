@@ -1,6 +1,6 @@
 # Kittygram
 Kittygram — социальная сеть для обмена фотографиями любимых питомцев.
-[GITHUB-BADGE](https://github.com/ConstantineGolovin/kittygram_final/workflows/{name}/badge.svg)
+[GITHUB-BADGE](https://github.com/ConstantineGolovin/kittygram_final/workflows/Main%20Kittygram%20workflow/badge.svg)
 
 ## Использованные технологии
 * Docker

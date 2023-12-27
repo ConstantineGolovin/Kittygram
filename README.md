@@ -1,6 +1,7 @@
 # Kittygram
 Kittygram — социальная сеть для обмена фотографиями любимых питомцев.
-[GITHUB-BADGE](https://github.com/ConstantineGolovin/kittygram_final/workflows/Main%20Kittygram%20workflow/badge.svg)
+![GITHUB-BADGE](https://github.com/ConstantineGolovin/kittygram_final/workflows/Main%20Kittygram%20workflow/badge.svg)
+
 
 ## Использованные технологии
 * Docker
@@ -29,7 +30,7 @@ sudo docker-compose up --build
 ~~~
 
 ## Отличие прод версии от обычной
-В обычной версии образы билдятся при каждом запуске, а в прод версии контейнеры запускаются из готовых образов.
+В обычной версии проект запускается локально, вручную. Это удобно, когда нужно быстро протестировать некоторые моменты. А в прод версии, контейнеры запускаются автоматически из готовых образов на сервере с операционной системой. 
 
 ## Автор проекта
 Головин Константин Александрович, 68 когорта

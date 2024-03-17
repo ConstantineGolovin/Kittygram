@@ -21,7 +21,7 @@ final-kittygram.ddns.net
 ## Как запустить проект
 Клонировать репозиторий:
 ~~~
-git clone git@github.com:ConstantineGolovin/kittygram_final.git
+git clone git@github.com:ConstantineGolovin/Kittygram.git
 ~~~
 
 Запустить проект: 
